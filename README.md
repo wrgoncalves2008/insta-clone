@@ -1,2 +1,3 @@
 # insta-clone
-Projeto pra recriar a interface do instagram
+
+Projeto de estudos sobre flutter. Objetivo é criar uma interface semelhante a do Instagram
