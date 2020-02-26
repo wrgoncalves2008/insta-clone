@@ -1,11 +1,8 @@
 class Post {
-  final String name;
-  final String image;
+  final String userName;
+  final String userImage;
+  final String postImage;
   final String legend;
 
-  Post({
-    this.name,
-    this.image,
-    this.legend,
-  });
+  Post({this.userName, this.userImage, this.postImage, this.legend});
 }
